@@ -1,0 +1,19 @@
+{
+  "name": "pixel-bruno",
+  "version": "1.0.0",
+  "description": "Pixel Bruno - endless runner game",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.80.1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0",
+    "@capacitor/core": "^6.1.0",
+    "@capacitor/cli": "^6.1.0"
+  }
+}
